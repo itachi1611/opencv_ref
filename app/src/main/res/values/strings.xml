@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">opencv_ref</string>
+    <string name="btn_func_01">Color Blob Detection</string>
+    <string name="btn_func_02" />
+    <string name="btn_func_03" />
+    <string name="btn_func_04" />
+    <string name="btn_func_05" />
+    <string name="btn_func_06" />
+    <string name="btn_func_07" />
+    <string name="btn_func_08" />
+</resources>

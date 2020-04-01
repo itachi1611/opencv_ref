@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="*"
+    android:layout_gravity="center"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/btn01"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/btn_func_01"/>
+
+        <Button
+            android:id="@+id/btn02"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/btn_func_02"/>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/btn03"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/btn_func_03"/>
+
+        <Button
+            android:id="@+id/btn04"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/btn_func_04"/>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/btn05"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/btn_func_05"/>
+
+        <Button
+            android:id="@+id/btn06"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/btn_func_06"/>
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/btn07"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/btn_func_07"/>
+
+        <Button
+            android:id="@+id/btn08"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/btn_func_08"/>
+
+    </TableRow>
+
+</TableLayout>
